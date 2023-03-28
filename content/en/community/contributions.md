@@ -24,9 +24,9 @@ Insert link to content<br />
 
 ## Video Materials
 
-### Content Title
+###  Build A Cloud Provider on Akash Network Part 2 - kubespraying 
 
-Author:<br />
-Date Created:<br />
-Description:<br />
-Insert link to content<br />
+Author: Shimpa <br />
+Date Created: Oct 25 2022 <br />
+Description:  Build A Cloud Provider on Akash Network Part 2 - kubespraying  <br />
+https://www.youtube.com/watch?v=7jl-9j4OCuU <br />
