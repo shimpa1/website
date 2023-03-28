@@ -26,7 +26,7 @@ Insert link to content<br />
 
 ### Content Title
 
-Author:<br />
-Date Created:<br />
-Description:<br />
-Insert link to content<br />
+Author: Shimpa <br />
+Date Created: Aug 25 2022 <br />
+Description: SoftEther VPN server on Akash network with OpenVPN client <br />
+https://www.youtube.com/watch?v=pHee7KczzY0&t=1s <br />
