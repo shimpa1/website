@@ -24,9 +24,9 @@ Insert link to content<br />
 
 ## Video Materials
 
-### Content Title
+### Softether VPN on Akash YouTube Video
 
-Author:<br />
-Date Created:<br />
-Description:<br />
-Insert link to content<br />
+Author: Shimpa <br />
+Date Created: Aug 18 2022 <br />
+Description: Softether VPN on Akash <br />
+Insert link to content https://www.youtube.com/watch?v=7cUJHiybq9E&t=3s <br />
