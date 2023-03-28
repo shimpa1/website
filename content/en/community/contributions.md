@@ -24,9 +24,9 @@ Insert link to content<br />
 
 ## Video Materials
 
-### Content Title
+###  Owncast Deployment on Akash Network 
 
-Author:<br />
-Date Created:<br />
-Description:<br />
-Insert link to content<br />
+Author: Shimpa <br />
+Date Created: Jan 13 2023 <br />
+Description:  Owncast Deployment on Akash Network  <br />
+https://www.youtube.com/watch?v=nRoXaSwfJws <br />
