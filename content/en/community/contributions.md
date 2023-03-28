@@ -24,9 +24,9 @@ Insert link to content<br />
 
 ## Video Materials
 
-### Content Title
+###  Build an Akash Node CLI 
 
-Author:<br />
-Date Created:<br />
-Description:<br />
-Insert link to content<br />
+Author: Shimpa <br />
+Date Created:Dec 7 2022 <br />
+Description:  Build an Akash Node CLI  <br />
+https://www.youtube.com/watch?v=1cDhYlBIcns&t=11s <br />
