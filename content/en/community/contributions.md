@@ -24,9 +24,9 @@ Insert link to content<br />
 
 ## Video Materials
 
-### Content Title
+###  Akash Network Stable Diffusion 
 
-Author:<br />
-Date Created:<br />
-Description:<br />
-Insert link to content<br />
+Author: Shimpa <br />
+Date Created: Mar 10 2023 <br />
+Description:  Akash Network Stable Diffusion  <br />
+https://www.youtube.com/watch?v=CmOzY-NAWZY <br />
