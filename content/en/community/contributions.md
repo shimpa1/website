@@ -24,9 +24,9 @@ Insert link to content<br />
 
 ## Video Materials
 
-### Content Title
+###  Build A Cloud Provider on Akash network Part 3 - Akash CLI 
 
-Author:<br />
-Date Created:<br />
-Description:<br />
-Insert link to content<br />
+Author: Shimpa <br />
+Date Created: Nov 1 2022 <br />
+Description:  Build A Cloud Provider on Akash network Part 3 - Akash CLI  <br />
+https://www.youtube.com/watch?v=xrwJGYKY3CE <br />
