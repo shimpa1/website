@@ -24,9 +24,9 @@ Insert link to content<br />
 
 ## Video Materials
 
-### Content Title
+###  Wordpress Deployment with Persistent Storage on Akash Network 
 
-Author:<br />
-Date Created:<br />
-Description:<br />
-Insert link to content<br />
+Author: Shimpa <br />
+Date Created: Dec 17 2022 <br />
+Description:  Wordpress Deployment with Persistent Storage on Akash Network  <br />
+https://www.youtube.com/watch?v=nciB7aAvhuo&t=75s <br />
