@@ -24,9 +24,9 @@ Insert link to content<br />
 
 ## Video Materials
 
-### Content Title
+### Europlots Akash provider hardware - AMD Epyc 7h12 7642
 
-Author:<br />
-Date Created:<br />
-Description:<br />
-Insert link to content<br />
+Author: Shimpa <br />
+Date Created: Sept 16 2022 <br />
+Description: Europlots Akash provider hardware - AMD Epyc 7h12 7642 <br />
+https://www.youtube.com/watch?v=2KtXC3gV11g <br />
