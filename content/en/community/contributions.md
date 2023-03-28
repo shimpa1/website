@@ -24,9 +24,9 @@ Insert link to content<br />
 
 ## Video Materials
 
-### Content Title
+###  Akash Provider Administrative commands 
 
-Author:<br />
-Date Created:<br />
-Description:<br />
-Insert link to content<br />
+Author: Shimpa <br />
+Date Created: Feb 1 2023 <br />
+Description:  Akash Provider Administrative commands  <br />
+https://www.youtube.com/watch?v=0IcAIJXaNpc&t=1s <br />
