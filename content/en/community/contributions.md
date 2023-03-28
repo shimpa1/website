@@ -24,9 +24,9 @@ Insert link to content<br />
 
 ## Video Materials
 
-### Content Title
+###  Build A Cloud Provider on Akash network Part 1 - the hardware 
 
-Author:<br />
-Date Created:<br />
-Description:<br />
-Insert link to content<br />
+Author: Shimpa <br />
+Date Created: Oct 12 2022 <br />
+Description:  Build A Cloud Provider on Akash network Part 1 - the hardware <br />
+https://www.youtube.com/watch?v=DFPlvaiyquY <br />
