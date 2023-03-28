@@ -24,9 +24,9 @@ Insert link to content<br />
 
 ## Video Materials
 
-### Content Title
+###  Build a Cloud Provider on Akash Network Part 4 - Helm Charts 
 
-Author:<br />
-Date Created:<br />
-Description:<br />
-Insert link to content<br />
+Author: Shimpa <br />
+Date Created: Nov 30 2022 <br />
+Description:  Build a Cloud Provider on Akash Network Part 4 - Helm Charts  <br />
+https://www.youtube.com/watch?v=rM05Yt3Yz_c <br />
