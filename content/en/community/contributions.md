@@ -24,9 +24,9 @@ Insert link to content<br />
 
 ## Video Materials
 
-### Content Title
+###  Akash Network IP Leases concepts and config  
 
-Author:<br />
-Date Created:<br />
-Description:<br />
-Insert link to content<br />
+Author: Shimpa <br />
+Date Created: Mar 21 2023<br />
+Description:  Akash Network IP Leases concepts and config  <br />
+https://www.youtube.com/watch?v=JWh3yh_k3WE&t=6s <br />
