@@ -24,9 +24,9 @@ Insert link to content<br />
 
 ## Video Materials
 
-### Content Title
+### How to create Chia plots using Akash network
 
-Author:<br />
-Date Created:<br />
-Description:<br />
-Insert link to content<br />
+Author: Shimpa <br />
+Date Created: Sept 12 2022 <br />
+Description: How to create Chia plots using Akash network <br />
+https://www.youtube.com/watch?v=5ClFRx_dpNI&t=2s<br />
