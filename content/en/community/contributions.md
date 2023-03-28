@@ -24,9 +24,9 @@ Insert link to content<br />
 
 ## Video Materials
 
-### Content Title
+###  Custom Domain names and TLS termination with Cloudflare on Akash Network 
 
-Author:<br />
-Date Created:<br />
-Description:<br />
-Insert link to content<br />
+Author: Shimpa <br />
+Date Created: Jan 24 2023 <br />
+Description:  Custom Domain names and TLS termination with Cloudflare on Akash Network  <br />
+https://www.youtube.com/watch?v=4g-6xOEEbrU <br />
