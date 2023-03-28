@@ -24,9 +24,9 @@ Insert link to content<br />
 
 ## Video Materials
 
-### Content Title
+###  Akash Validator Build 
 
-Author:<br />
-Date Created:<br />
-Description:<br />
-Insert link to content<br />
+Author: Shimpa <br />
+Date Created: Feb 15 2023 <br />
+Description:  Akash Validator Build  <br />
+https://www.youtube.com/watch?v=vmZTLZT38Ek <br />
