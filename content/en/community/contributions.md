@@ -24,9 +24,9 @@ Insert link to content<br />
 
 ## Video Materials
 
-### Content Title
+###  Akash Network Explained in Details 
 
-Author:<br />
-Date Created:<br />
-Description:<br />
-Insert link to content<br />
+Author: Shimpa <br />
+Date Created: Jan 3 2023 <br />
+Description:  Akash Network Explained in Details  <br />
+https://www.youtube.com/watch?v=eRxf9stc95I&t=2s <br />
